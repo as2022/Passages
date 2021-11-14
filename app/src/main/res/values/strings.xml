@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Passages</string>
+    <string name="jfk_inaugural_address">JFK\'s Inaugural Address</string>
+    <string name="gettysburg_address">Gettysburg Address</string>
+    <string name="the_tragedy_of_darth_plagueis_the_wise">The Tragedy of Darth Plagueis the Wise</string>
+</resources>
